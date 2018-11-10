@@ -18,7 +18,7 @@ appveyor = { repository = "quininer/tokio-rustls" }
 futures-core = { version = "0.2.0", optional = true }
 futures-io = { version = "0.2.0", optional = true }
 tokio = { version = "0.1.6", optional = true }
-rustls = "0.13"
+rustls = "0.14"
 webpki = "0.18.1"
 
 [dev-dependencies]
